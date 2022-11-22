@@ -11,4 +11,9 @@ In the second part, we had to make the transaction from logical model (ERD) to r
 
 In the third part, we created our database using MySQL.
 
-Last but not least, we created a simple app (Python) for using the database.
+![image](https://user-images.githubusercontent.com/118474076/203382495-aceed2d1-845d-42ee-acdf-ea5ecdb9ddcb.png)
+
+Last but not least, we created a simple app (Python).
+
+![image](https://user-images.githubusercontent.com/118474076/203382667-3456c6ac-1bd3-4604-afeb-4783169bcf36.png)
+
