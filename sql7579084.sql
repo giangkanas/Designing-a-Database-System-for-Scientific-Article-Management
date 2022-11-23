@@ -1,33 +1,3 @@
--- phpMyAdmin SQL Dump
--- version 4.7.1
--- https://www.phpmyadmin.net/
---
--- Φιλοξενητής: sql7.freesqldatabase.com
--- Χρόνος δημιουργίας: 23 Νοε 2022 στις 18:37:11
--- Έκδοση διακομιστή: 5.5.62-0ubuntu0.14.04.1
--- Έκδοση PHP: 7.0.33-0ubuntu0.16.04.16
-
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET AUTOCOMMIT = 0;
-START TRANSACTION;
-SET time_zone = "+00:00";
-
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8mb4 */;
-
---
--- Βάση δεδομένων: `sql7579084`
---
-
--- --------------------------------------------------------
-
---
--- Δομή πίνακα για τον πίνακα `ΕΠΙΣΤΗΜΟΝΙΚΟ ΑΡΘΡΟ`
---
-
 CREATE TABLE `ΕΠΙΣΤΗΜΟΝΙΚΟ ΑΡΘΡΟ` (
   `ΤΙΤΛΟΣ` varchar(100) NOT NULL,
   `ΚΩΔΙΚΟΣ ΑΡΘΡΟΥ` varchar(6) NOT NULL,
