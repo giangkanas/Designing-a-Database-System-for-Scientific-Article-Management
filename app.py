@@ -8,11 +8,11 @@ import sys
 
 # Connect to the database.
 ####################################
-connection = pymysql.connect(host='sql7.freesqldatabase.com',
-                             user='sql7579084',
-                             password='gwXTpCSdHY',
-                             db='sql7579084',
-                             charset='utf8mb4',
+connection = pymysql.connect(host='',
+                             user='',
+                             password='',
+                             db='',
+                             charset='',
                              cursorclass=pymysql.cursors.DictCursor)
 
 
