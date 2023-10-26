@@ -1,3 +1,3 @@
-# Database_project
+# Designing a Database System for Scientific Article Management
 
 In this database, scientific articles from journals will be stored with the purpose of creating a digital library. Each scientific article, characterized by key elements such as the title, language, and publication date, will pertain to scientific fields and will be published in a specific issue of a journal. Additionally, each author will collaborate with one or more entities (e.g., an educational institution) for their writing. Finally, each article may reference other articles or documents that either exist within the database or not, in order to assist users in searching and finding the information of interest.
